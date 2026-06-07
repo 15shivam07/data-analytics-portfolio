@@ -18,11 +18,13 @@ Hello! I'm Shivam Kumar Vishwakarma, a Computer Science Engineering graduate asp
 * Improving SQL and Power BI skills
 * Developing business-focused dashboards and insights
 
-## Upcoming Projects
+Current Portfolio Status
 
-1. E-Commerce Sales Analytics Dashboard
-2. HR Analytics Dashboard
-3. SQL Business Case Studies
+🚧 E-Commerce Sales Analytics Dashboard (In Progress)
+
+Planned:
+- HR Analytics Dashboard
+- SQL Business Case Studies
 
 ## Connect With Me
 
